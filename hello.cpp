@@ -1,9 +1,15 @@
 #include <iostream>
+#include "student.h"
 using namespace std;
 
-//Ö÷º¯Êı 
+//ä¸»å‡½æ•° 
 int main() {
-	/*Êä³öHello World*/
+	/*è¾“å‡ºæ¶ˆæ¯*/
 	cout << "Hello World!" << endl;
+	cout << "Hello Github!" << endl;
+	
+	Student s(101, "Alex", 30, 'M');
+	s.print();
+	
 	return 0;
 }
