@@ -15,3 +15,5 @@ g++ -o hello hello.cpp
 
 hello
 
+输出运行结果。
+
