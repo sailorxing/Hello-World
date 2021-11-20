@@ -18,4 +18,6 @@ hello
 print message.
 
 - feature-A
+- fix-B
+- fix-B2
 
