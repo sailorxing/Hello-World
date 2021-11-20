@@ -20,4 +20,12 @@ hello
 
 
 - feature-A
+- fix-B
+- fix-B2
+
+
+
+在将fix-B合并到main中之后在main中加入的内容，此时main与fix-B已经是等价的了，
+
+合并后两个分支互为别名。
 
