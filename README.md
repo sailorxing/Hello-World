@@ -17,3 +17,13 @@ hello
 
 输出运行结果。
 
+
+
+git commit 的-m参数测试。
+
+
+
+- feature-A
+
+- fix-B
+
