@@ -15,9 +15,7 @@ g++ -o hello hello.cpp
 
 hello
 
-输出运行结果。
-
-
+print message.
 
 - feature-A
 
